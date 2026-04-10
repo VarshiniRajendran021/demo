@@ -14,5 +14,5 @@ if not num1.isnumeric() or not num2.isnumeric():
 n1=int(num1)
 n2=int(num2)
 
-
-
+print(add_tow_number(n1,n2))
+print(sub_two_num(n1,n2))
